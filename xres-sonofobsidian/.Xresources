@@ -1,0 +1,9 @@
+!Ported from the popular Visual Studio "Son Of Obsidian" editor style by Corey Larson.
+
+!Background Color
+URxvt*background: #2A2822
+
+!Font Color
+URxvt*foreground: #F3F2F1
+
+!Other Colors
