@@ -12,3 +12,4 @@ bspc monitor DVI-I-2  -d 1 3 5 7 9
 bspc monitor DVI-I-3  -d 2 4 6 8 10
 
 panel &
+compton & 
