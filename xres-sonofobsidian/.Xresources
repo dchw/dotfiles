@@ -2,11 +2,12 @@
 URxvt.font: xft:inconsolata:size=9
 
 URxvt.letterSpace: -2
+URxvt.depth: 32
 
 !Based on Son Of Obsidian, the VS theme by einaros. Ported for used in .Xresources by Corey Larson.
 
 !Background Color
-URxvt*background: #22282A
+URxvt*background: [70]#22282A
 
 !Font Color
 URxvt*foreground: #F1F2F3
