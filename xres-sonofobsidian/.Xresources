@@ -1,7 +1,7 @@
 !Use something like my beloved Consolas
-URxvt.font: xft:inconsolata:size=9
+URxvt.font: xft:Inconsolata:size=8
 
-URxvt.letterSpace: -2
+URxvt.letterSpace: -1
 URxvt.depth: 32
 
 !Based on Son Of Obsidian, the VS theme by einaros. Ported for used in .Xresources by Corey Larson.
