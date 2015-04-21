@@ -1,6 +1,6 @@
 [[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
 
-sh ~/.fehbg &
+feh --bg-max --randomize /mnt/data/Wallpapers/* &
 compton &
 sxhkd &
 exec bspwm
