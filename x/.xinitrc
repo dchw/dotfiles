@@ -1,4 +1,4 @@
-[[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
+[[ -f ~/.Xresources ]] && xrdb -I$HOME -merge ~/.Xresources
 
 mopidy &
 feh --bg-max --randomize /mnt/data/Wallpapers/* &
