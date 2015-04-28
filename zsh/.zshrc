@@ -33,4 +33,4 @@ PANEL_FIFO=/tmp/panel-fifo
 PANEL_HEIGHT=24
 PANEL_FONT_FAMILY="-*-inconsolata-medium-r-normal-*-10-*-*-*-c-*-*-1"
 export PANEL_FIFO PANEL_HEIGHT PANEL_FONT_FAMILY
-export PATH=/home/dchw/.panel:$PATH
+export PATH=/home/dchw/.panel:/home/dchw/bin:$PATH
