@@ -54,6 +54,9 @@ PANEL_HEIGHT=24
 PANEL_FONT_FAMILY="-*-inconsolata for powerline-medium-r-normal-*-8-*-*-*-c-*-*-1"
 export PANEL_FIFO PANEL_HEIGHT PANEL_FONT_FAMILY
 export PATH=/home/dchw/.panel:$HOME/bin:/usr/local/bin:$PATH
+
+export DEFAULT_USER="dchw"
+
 # export MANPATH="/usr/local/man:$MANPATH"
 
 
