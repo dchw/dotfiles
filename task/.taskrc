@@ -29,4 +29,5 @@ data.location=~/.task
 #include /usr/share/doc/task/rc/solarized-light-256.theme
 #include /usr/share/doc/task/rc/no-color.theme
 
-rc.dateformat=a@h:N
+#Projects are an organizational tool not something to change urgency
+urgency.project.coefficient=0.0
