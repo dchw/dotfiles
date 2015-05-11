@@ -1,7 +1,6 @@
 #include ".Xtheme"
 
-!Use something like my beloved Consolas
-URxvt.font: xft:inconsolata\ For\ Powerline:size=8
+URxvt.font: xft:Inconsolata\ for\  Powerline:size=9
 
 URxvt.letterSpace: -1
 URxvt.depth: 32
