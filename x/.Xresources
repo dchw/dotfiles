@@ -1,6 +1,6 @@
 #include ".Xtheme"
 
-URxvt.font: xft:Inconsolata\ for\  Powerline:size=9
+URxvt.font: xft:Sauce\ Code\ Powerline:size=7
 
 URxvt.letterSpace: -1
 URxvt.depth: 32
