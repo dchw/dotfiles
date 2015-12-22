@@ -11,9 +11,6 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
-autoload zkbd
-source ~/.zkbd/$TERM-:0
-
 [[ -n ${key[Backspace]} ]] && bindkey "${key[Backspace]}" backward-delete-char
 [[ -n ${key[Insert]} ]] && bindkey "${key[Insert]}" overwrite-mode
 [[ -n ${key[Home]} ]] && bindkey "${key[Home]}" beginning-of-line
@@ -34,3 +31,4 @@ PANEL_HEIGHT=24
 PANEL_FONT_FAMILY="-*-inconsolata-medium-r-normal-*-10-*-*-*-c-*-*-1"
 export PANEL_FIFO PANEL_HEIGHT PANEL_FONT_FAMILY
 export PATH=/home/dchw/.panel:/home/dchw/bin:$PATH
+export XDG_CONFIG_HOME=/home/dchw/.config

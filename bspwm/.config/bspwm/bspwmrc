@@ -8,7 +8,7 @@ bspc config borderless_monocle  true
 bspc config gapless_monocle     true
 bspc config focus_by_distance   true
 
-bspc monitor DVI-I-2  -d 1 2 3 4 5
-bspc monitor DVI-I-3  -d 6 7 8 9 10
+bspc monitor ^1 -d 1 2 3
+bspc monitor ^2 -d 4 5 6
 
 panel &
