@@ -84,7 +84,7 @@ super + Return
 	urxvt
 
 super + space
-	dmenu_run -l 5 -i -b -fn "-*-terminus-medium-r-*-*-8-*"
+	dmenu_run -i -b -fn "terminus-8:normal"
 
 
 # make sxhkd reload its configuration files:
