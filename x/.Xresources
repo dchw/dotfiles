@@ -1,6 +1,0 @@
-#include ".Xtheme"
-
-URxvt.font: xft:Terminus:size=8
-
-URxvt.letterSpace:
-URxvt.depth: 32

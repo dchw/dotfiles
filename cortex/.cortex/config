@@ -1,9 +1,0 @@
-[config]
-frontpage=http://www.reddit.com/.json?feed=&user=&limit=50
-inbox=http://www.reddit.com/message/unread/.json?feed=&user=
-
-entry-format-minimal= {title} %> {subreddit:<20} | {num_comments:4} | {ups:<4}/{downs:<4}
-update-interval=5
-browser-background=1
-browser-command=qutebrowser ":open -t {0}"
-minimal=1
