@@ -1,0 +1,4 @@
+URxvt*inheritPixmap: true
+URxvt*transparent: true
+URxvt*shading: 30
+URxvt*font: xft:hack:size=8
